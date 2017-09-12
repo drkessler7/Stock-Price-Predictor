@@ -1,5 +1,5 @@
 # Stock_Price_Predictor
-This capstone project was created as part of [Udacity's Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009). The full description of the project can be found in the Project Report.
+This capstone project was created as part of [Udacity's Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009). The full description of the project can be found in the ![Project Report](Capstone Project.pdf).
 
 This project tests the Support Vector Machine (SVM), Random Forest (RF), and K-Nearest Neighbors (KNN) machine learning algorithms to predict future prices of stocks. The final tuned model produced more accurate Adjusted Closing Price predictions than the benchmark for a date that was four days into the future from a requested date for the four companies that were analyzed.
 
