@@ -14,29 +14,29 @@ Below are a few screenshots showing features of this project.
 
 ![](SPP_Images/SPP_start_window.png)
 
-![](SPP_Images\SPP_fund_data_window.png)
+![](SPP_Images/SPP_fund_data_window.png)
 
-![](SPP_Images\GOOG_hist_plot.png)
+![](SPP_Images/GOOG_hist_plot.png)
 
-![](SPP_Images\Basic_Stats_4_companies.png)
+![](SPP_Images/Basic_Stats_4_companies.png)
 
-![](SPP_Images\Sample_AAPL.png)
+![](SPP_Images/Sample_AAPL.png)
 
-![](SPP_Images\SPP_fund_data_window.png)
+![](SPP_Images/SPP_fund_data_window.png)
 
-![](SPP_Images\SMA_Benchmark_Example.png)
+![](SPP_Images/SMA_Benchmark_Example.png)
 
-![](SPP_Images\Feature_Engineering.png)
+![](SPP_Images/Feature_Engineering.png)
 
-![](SPP_Images\Last_training_date_example.png)
+![](SPP_Images/Last_training_date_example.png)
 
-![](SPP_Images\Prediction_window.png)
+![](SPP_Images/Prediction_window.png)
 
-![](SPP_Images\Results_window_4x4.png)
+![](SPP_Images/Results_window_4x4.png)
 
-![](SPP_Images\Untuned_model_results.png)
+![](SPP_Images/Untuned_model_results.png)
 
-![](SPP_Images\Tuned_model_results.png)
+![](SPP_Images/Tuned_model_results.png)
 
 
 ## Installation
