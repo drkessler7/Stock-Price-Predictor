@@ -12,7 +12,7 @@ Starter files provided by Udacity are in the 'Boston Housing Starter Files' fold
 ## Screenshots
 Below are a few screenshots showing features of this project.
 
-![](SPP_Images\\SPP_start_window.png)
+![](SPP_Images/SPP_start_window.png)
 
 ![](SPP_Images\SPP_fund_data_window.png)
 
