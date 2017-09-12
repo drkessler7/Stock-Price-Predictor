@@ -12,11 +12,32 @@ Starter files provided by Udacity are in the 'Boston Housing Starter Files' fold
 ## Screenshots
 Below are a few screenshots showing features of this project.
 
-![](boston_housing_stats.png)
+![SPP_start_window](SPP_Images\SPP_start_window.png)
 
-![](boston_housing_DTperformances.png)
+![SPP_fund_data_window](SPP_Images\SPP_fund_data_window.png)
 
-![](boston_housing_DTcomplexity.png)
+![GOOG_hist_plot](SPP_Images\GOOG_hist_plot.png)
+
+![Basic_Stats_4_companies](SPP_Images\Basic_Stats_4_companies.png)
+
+![Sample_AAPL](SPP_Images\Sample_AAPL.png)
+
+![SPP_fund_data_window](SPP_Images\SPP_fund_data_window.png)
+
+![SMA_Benchmark_Example](SPP_Images\SMA_Benchmark_Example.png)
+
+![Feature_Engineering](SPP_Images\Feature_Engineering.png)
+
+![Last_training_date_example](SPP_Images\Last_training_date_example.png)
+
+![Prediction_window](SPP_Images\Prediction_window.png)
+
+![Results_window_4x4](SPP_Images\Results_window_4x4.png)
+
+![Untuned_model_results](SPP_Images\Untuned_model_results.png)
+
+![Tuned_model_results](SPP_Images\Tuned_model_results.png)
+
 
 ## Installation
 The installation documentation for the Jupyter platform can be found [here](https://jupyter.readthedocs.io/en/latest/install.html).
