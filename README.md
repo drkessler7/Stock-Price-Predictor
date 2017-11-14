@@ -7,8 +7,6 @@ This project tests the Support Vector Machine (SVM), Random Forest (RF), and K-N
 
 Python, Pandas, MatPlotLib, Scikit-Learn, PyQt4, QT Designer
 
-Starter files provided by Udacity are in the 'Boston Housing Starter Files' folder. 
-
 ## Screenshots
 Below are a few screenshots showing features of this project.
 
