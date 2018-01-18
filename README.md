@@ -43,6 +43,7 @@ The Python code for this predictor can be found in this file as ‘SPP_academic.
 ## About Files/Folders in this Repository
 * SPP_Images: The images within the Stock Price Predictor (SPP) folder are screenshots of various windows and charts created by this script. These will better help the viewer understand the functionality of this predictor.
 * SPP_academic.py: This script contains all of the Python code needed to run the predictor. 
+* DK_icon.png: The small icon used by the GUI.
 * Capstone Report.pdf: This report contains an in-depth description of this predictor’s development.
  
 ## Requirements 
