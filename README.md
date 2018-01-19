@@ -1,6 +1,9 @@
 ## Stock Price Predictor
 ### Overview
 Imagine being able to predict future stock prices of a company. What if you could also easily see basic information about that company, as well as plots of its past stock prices? That’s exactly what this predictor does, all underneath a user-friendly Graphical User Interface (GUI). Users can easily request information that is pulled automatically from online sources and displayed in simple tables and graphs. They can also request price predictions that are made using machine learning models. 
+
+This predictor is an academic version, created as my Capstone Project for [Udacity's Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t). It is much simpler than a separate predictor that I created for my own personal trading purposes. That predictor uses more complex methods and models than what this predictor shows. Only this academic version is available to the public.
+
 ### Problem
 For many years, the movement of stock prices has been studied by financial institutions and individuals wishing to capitalize on price patterns. When investing in companies listed on New York Stock Exchange (NYSE), NASDAQ, or other exchanges, the basic strategy is to buy stock shares when the price is low, and sell them later when the price is higher. In so doing, one can gain a profit by receiving more money than they initially paid. The motivation for this project is to help users make better decisions when trading stocks.
 ### Process
